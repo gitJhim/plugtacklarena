@@ -24,8 +24,8 @@ mystats:
       
 
 MySQL:
-  host: "na02-db.cus.mc-panel.net"
-  database: "db_139736"
-  user: "db_139736"
-  pass: "400c86154e"
-  port: 3306
+  host: "0"
+  database: "0"
+  user: "0"
+  pass: "0"
+  port: 0000
