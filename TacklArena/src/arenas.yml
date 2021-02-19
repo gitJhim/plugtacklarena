@@ -1,0 +1,67 @@
+
+arenas:
+
+  pastel:
+    icon: PURPLE_TERRACOTTA
+    player1:
+      x: 1744
+      y: 8
+      z: -394
+      yaw: 0
+    player2:
+      x: 1745
+      y: 8
+      z: -313
+      yaw: 180
+
+  nether_barren:
+    icon: NETHER_BRICKS
+    player1:
+      x: 2042
+      y: 7
+      z: -328
+      yaw: 0
+    player2:
+      x: 2061
+      y: 7
+      z: -241
+      yaw: 160
+
+  desert:
+    icon: SAND
+    player1:
+      x: 2311
+      y: 10
+      z: -178
+      yaw: 180
+    player2:
+      x: 2311
+      y: 10
+      z: -258
+      yaw: 0
+
+  grasslands:
+    icon: GRASS_BLOCK
+    player1:
+      x: 2055
+      y: 8
+      z: 79
+      yaw: 180
+    player2:
+      x: 2055
+      y: 8
+      z: 0
+      yaw: 0
+
+  outlier:
+    icon: CYAN_TERRACOTTA
+    player1:
+      x: 1708
+      y: 10
+      z: 12
+      yaw: 320
+    player2:
+      x: 1772
+      y: 10
+      z: 95
+      yaw: 140

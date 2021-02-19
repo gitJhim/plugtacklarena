@@ -1,0 +1,35 @@
+killtexts:
+  slayed:
+    title: "&a&l%player_name% slayed &c&lJhim"
+    text: "&a&l%player_name% slayed &c&l"
+    permission: "tacklarena.killtexts.slayed"
+    isPublic: true
+    price: 0
+
+  destroyed:
+    title: "&a&l%player_name% destroyed &c&lJhim"
+    text: "&a&l%player_name% destroyed &c&l"
+    permission: "tacklarena.killtexts.destroyed"
+    isPublic: true
+    price: 1000
+
+  sliced:
+    title: "&a&l%player_name% sliced &c&lJhim"
+    text: "&a&l%player_name% sliced &c&l"
+    permission: "tacklarena.killtexts.sliced"
+    isPublic: true
+    price: 1000
+
+  pwnd:
+    title: "&a&l%player_name% pwnd &c&lJhim"
+    text: "&a&l%player_name% pwnd &c&l"
+    permission: "tacklarena.killtexts.pwnd"
+    isPublic: true
+    price: 2500
+
+  jhimedon:
+    title: "&a&l%player_name% JHIMED ON &c&lJhim"
+    text: "&a&l%player_name% JHIMED ON &c&l"
+    permission: "tacklarena.killtexts.jhimedon"
+    isPublic: false
+    price: 0

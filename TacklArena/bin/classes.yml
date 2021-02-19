@@ -1,0 +1,35 @@
+
+commander:
+  cooldowns:
+    leap: 8
+    boost: 12
+    health: 10
+
+sniper:
+  cooldowns:
+    propel: 7
+    pyro: 10
+    warp: 18
+    
+spy:
+  cooldowns:
+    velocity: 12
+    cloak: 20
+
+technician:
+  cooldowns:
+    guard: 10
+    shift: 8
+    radar: 20
+
+heavy:
+  cooldowns:
+    fury: 12
+    bulk: 30
+    ground: 15
+
+botanist:
+  cooldowns:
+    naturesaura: 15
+    root: 8
+    poisionherbs: 20

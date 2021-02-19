@@ -1,0 +1,31 @@
+reload:
+  message:
+    - "&cTackl &7Arena &6Reloaded!"
+
+spawn:
+  coords:
+    world: "arenas"
+    x: 51
+    y: 4
+    z: 10
+    
+match:
+  match_end_message:
+    - "&6-=-=-=-=-=-=-=-"
+    - "&aDamage Dealt: &l%tacklarena_playerdamagegiven%"
+    - "&cDamage Taken: &l%tacklarena_playerdamagetaken%"
+    - "&6-=-=-=-=-=-=-=-"
+
+mystats:
+  - "&aWins: &l%tacklarena_playerwins%"
+  - "&cLosses: &l%tacklarena_playerlosses%"
+  - "&aOverall Damage Dealt: &l%tacklarena_playeroveralldamagegiven%"
+  - "&cOverall Damage Taken: &l%tacklarena_playeroveralldamagetaken%"
+      
+
+MySQL:
+  host: "na02-db.cus.mc-panel.net"
+  database: "db_139736"
+  user: "db_139736"
+  pass: "400c86154e"
+  port: 3306

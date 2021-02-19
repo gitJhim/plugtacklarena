@@ -1,0 +1,14 @@
+main: me.Jhim.TacklArena.Main
+name: TacklArena
+version: 0.1
+author: Jhim
+api-version: 1.15
+softdepend: [PlaceholderAPI]
+
+commands:
+  class:
+  queue:
+  tacklarena:
+  mystats:
+  arenas:
+  profile:
